@@ -1,0 +1,15 @@
+C:\Users\mateu\source\repos\BMICalc\bin\Debug\net6.0\BMICalc.exe
+C:\Users\mateu\source\repos\BMICalc\bin\Debug\net6.0\BMICalc.deps.json
+C:\Users\mateu\source\repos\BMICalc\bin\Debug\net6.0\BMICalc.runtimeconfig.json
+C:\Users\mateu\source\repos\BMICalc\bin\Debug\net6.0\BMICalc.dll
+C:\Users\mateu\source\repos\BMICalc\bin\Debug\net6.0\BMICalc.pdb
+C:\Users\mateu\source\repos\BMICalc\obj\Debug\net6.0\BMICalc.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\BMICalc\obj\Debug\net6.0\BMICalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\BMICalc\obj\Debug\net6.0\BMICalc.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\BMICalc\obj\Debug\net6.0\BMICalc.AssemblyInfo.cs
+C:\Users\mateu\source\repos\BMICalc\obj\Debug\net6.0\BMICalc.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\BMICalc\obj\Debug\net6.0\BMICalc.dll
+C:\Users\mateu\source\repos\BMICalc\obj\Debug\net6.0\refint\BMICalc.dll
+C:\Users\mateu\source\repos\BMICalc\obj\Debug\net6.0\BMICalc.pdb
+C:\Users\mateu\source\repos\BMICalc\obj\Debug\net6.0\BMICalc.genruntimeconfig.cache
+C:\Users\mateu\source\repos\BMICalc\obj\Debug\net6.0\ref\BMICalc.dll
