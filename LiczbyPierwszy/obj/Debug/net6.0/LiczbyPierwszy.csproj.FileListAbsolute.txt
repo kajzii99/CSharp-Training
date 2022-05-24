@@ -1,0 +1,15 @@
+C:\Users\mateu\source\repos\LiczbyPierwszy\bin\Debug\net6.0\LiczbyPierwszy.exe
+C:\Users\mateu\source\repos\LiczbyPierwszy\bin\Debug\net6.0\LiczbyPierwszy.deps.json
+C:\Users\mateu\source\repos\LiczbyPierwszy\bin\Debug\net6.0\LiczbyPierwszy.runtimeconfig.json
+C:\Users\mateu\source\repos\LiczbyPierwszy\bin\Debug\net6.0\LiczbyPierwszy.dll
+C:\Users\mateu\source\repos\LiczbyPierwszy\bin\Debug\net6.0\LiczbyPierwszy.pdb
+C:\Users\mateu\source\repos\LiczbyPierwszy\obj\Debug\net6.0\LiczbyPierwszy.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\LiczbyPierwszy\obj\Debug\net6.0\LiczbyPierwszy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\LiczbyPierwszy\obj\Debug\net6.0\LiczbyPierwszy.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\LiczbyPierwszy\obj\Debug\net6.0\LiczbyPierwszy.AssemblyInfo.cs
+C:\Users\mateu\source\repos\LiczbyPierwszy\obj\Debug\net6.0\LiczbyPierwszy.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\LiczbyPierwszy\obj\Debug\net6.0\LiczbyPierwszy.dll
+C:\Users\mateu\source\repos\LiczbyPierwszy\obj\Debug\net6.0\refint\LiczbyPierwszy.dll
+C:\Users\mateu\source\repos\LiczbyPierwszy\obj\Debug\net6.0\LiczbyPierwszy.pdb
+C:\Users\mateu\source\repos\LiczbyPierwszy\obj\Debug\net6.0\LiczbyPierwszy.genruntimeconfig.cache
+C:\Users\mateu\source\repos\LiczbyPierwszy\obj\Debug\net6.0\ref\LiczbyPierwszy.dll
